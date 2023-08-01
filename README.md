@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyriection&show_icons=true&theme=vue)
+
+![Visitor Count](https://profile-counter.glitch.me/Kyriection/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriection&layout=compact&theme=vue)
+
+
+
+
+
 <!--
 **Kyriection/Kyriection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
