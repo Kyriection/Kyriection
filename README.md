@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://github.com/Kyriection/Kyriection/blob/main/resourses/welcomeglitch.gif" width="50px" /> Hi there, This is Zhenyu (Allen)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyriection&show_icons=true&theme=vue)
