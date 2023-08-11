@@ -1,11 +1,5 @@
-### <img src="https://github.com/Kyriection/Kyriection/blob/main/resourses/welcomeglitch.gif" width="50px" /> Hi there, This is Zhenyu (Allen)
+### <img src="https://github.com/Kyriection/Kyriection/blob/main/resourses/welcomeglitch.gif" width="50px" /> Hi there, This is Allen.
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyriection&show_icons=true&theme=vue)
-
-![Visitor Count](https://profile-counter.glitch.me/Kyriection/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriection&layout=compact&theme=vue)
 
 
 
